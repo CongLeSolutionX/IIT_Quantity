@@ -11,7 +11,7 @@ import SwiftUI
 struct Quantity_in_IITApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            IITQuantityView()
         }
     }
 }
